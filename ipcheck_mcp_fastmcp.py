@@ -17,7 +17,7 @@ logging.basicConfig(
     filename='mcp_server_fastmcp.log', # 新日志文件
     filemode='w'
 )
-logger = logging.getLogger("ipcheck_fastmcp") # 新 logger 名称
+logger = logging.getLogger("/home/cdcd/roobli/JustCoding/try_mcp/ipcheck_fastmcp") # 新 logger 名称
 
 # --- User Agent (作为模块级常量) ---
 DEFAULT_USER_AGENT = "ModelContextProtocol/1.0 (IP Checker via FastMCP)"

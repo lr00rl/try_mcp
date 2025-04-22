@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "web-search-server": {
+      "isActive": true,
+      "command": "uv",
+      "args": [
+        "run",
+        "--python",
+        "/home/cdcd/roobli/roobli_py_env/bin/python",
+        "--directory",
+        "/home/cdcd/roobli/JustCoding/try_mcp",
+        "ipcheck_mcp_fastmcp.py"
+      ],
+      "name": "web-search-server"
+    }
+  }
+}
