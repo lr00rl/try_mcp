@@ -1,0 +1,3 @@
+[submodule "MCP-Chinese-Getting-Started-Guide"]
+	path = MCP-Chinese-Getting-Started-Guide
+	url = git@github.com:liaokongVFX/MCP-Chinese-Getting-Started-Guide.git
