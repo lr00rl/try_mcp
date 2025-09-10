@@ -6,6 +6,7 @@
     - https://www.claudemcp.com/blog
     - https://www.claudemcp.com/playground
 - https://www.npmjs.com/search?q=modelcontextprotocol
+- https://github.com/modelcontextprotocol/inspector
 
 
 ## Acknowledgements
